@@ -1,7 +1,7 @@
-import ExcelAssessment from "@/components/ExcelAssessment";
+import InteractiveExcelAssessment from "@/components/InteractiveExcelAssessment";
 
 const Index = () => {
-  return <ExcelAssessment />;
+  return <InteractiveExcelAssessment />;
 };
 
 export default Index;
